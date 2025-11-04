@@ -1,9 +1,18 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Maheesha</span></h1>
-<h3 align="center">💻 A passionate Computer Science undergraduate at <a href="https://www.sliit.lk/">@SLIIT</a> exploring Software Engineering, Data Science & AI 🚀</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheesh09&label=Profile%20Views&color=0e75b6&style=flat" alt="maheesh09" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Hey%20there,%20I'm%20Maheesha%20👋&fontAlign=50&fontAlignY=35&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+@SLIIT;AI+and+Data+Science+Enthusiast;Building+GlobalNest;Exploring+Next.js+and+Machine+Learning" alt="Typing SVG" />
+</p>
+
+---
+
+<!-- Animated Globe -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/images/globe.gif" width="300" alt="Animated Globe"/>
 </p>
 
 ---
@@ -16,6 +25,7 @@
 - 📫 Reach me at: **pramudithamaheesha@gmail.com**
 
 ---
+
 
 ### 🤝 Connect With Me  
 <p align="center">
@@ -42,6 +52,7 @@
 
 ---
 
+
 ### ⚙️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,typescript,react,nextjs,nodejs,spring,postgresql,mysql,aws,gcp,git,docker,figma,postman,tensorflow,c,photoshop,arduino" />
@@ -52,7 +63,6 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheesh09&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Maheesha's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheesh09&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
@@ -77,6 +87,24 @@
 </p>
 
 ---
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6" width="92%">
+    <img src="https://skillicons.dev/icons?i=java" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nodejs" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=spring" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postgres" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=gcp" height="30" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="30" />
+  </marquee>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
