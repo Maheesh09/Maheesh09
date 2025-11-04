@@ -64,6 +64,13 @@
 
 ---
 
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheesh09&bg_color=0D1117&color=0078ff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Maheesha's GitHub Contribution Graph" />
+</p>
+
+---
+
 ### 💡 Quote of the Day  
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad."</em>
