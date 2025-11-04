@@ -1,4 +1,6 @@
 name: Generate Snake
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "0 18 * * *"   # runs every day at 6 PM UTC
