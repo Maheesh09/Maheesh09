@@ -10,13 +10,6 @@
 
 ---
 
-<!-- Animated Globe -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/images/globe.gif" width="300" alt="Animated Globe"/>
-</p>
-
----
-
 ### 🌟 About Me  
 - 🔭 Currently working on **GlobalNest**  
 - 🌱 Learning **Next.js** and **Cloud Technologies**  
