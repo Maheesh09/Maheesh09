@@ -53,20 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheesh09&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Maheesha's GitHub stats" width="48%"/>
-</p>
-
----
-
-### 🚀 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheesh09&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
 ### 📈 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheesh09&bg_color=0D1117&color=0078ff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Maheesha's GitHub Contribution Graph" />
