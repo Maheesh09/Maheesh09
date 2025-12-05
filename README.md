@@ -5,16 +5,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+@SLIIT;AI+and+Data+Science+Enthusiast;Building+GlobalNest;Exploring+Next.js+and+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+@SLIIT;AI+and+Data+Science+Enthusiast;Building+GlobalNest;Exploring+Data_Science+and+Machine+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me  
-- 🔭 Currently working on **GlobalNest**  
-- 🌱 Learning **Next.js** and **Cloud Technologies**  
 - 👨‍💻 Check out my work: [maheesh.vercel.app](https://maheesh.vercel.app)  
-- 💬 Ask me anything about **tech, coding, or AI**  
 - 📫 Reach me at: **pramudithamaheesha@gmail.com**
 - 🏆 Team: [algoknights](https://algoknights.vercel.app)
 ---
