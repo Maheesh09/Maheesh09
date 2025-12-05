@@ -16,7 +16,7 @@
 - 👨‍💻 Check out my work: [maheesh.vercel.app](https://maheesh.vercel.app)  
 - 💬 Ask me anything about **tech, coding, or AI**  
 - 📫 Reach me at: **pramudithamaheesha@gmail.com**
-
+- 🏆 Team: [algoknights](https://algoknights.vercel.app)
 ---
 
 
