@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Hey%20there,%20I'm%20Maheesha%20👋&fontAlign=50&fontAlignY=35&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Hi%20,%20I'm%20Maheesha%20👋&fontAlign=50&fontAlignY=35&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- Typing Animation -->
@@ -57,7 +57,7 @@
 
 ---
 
-### 💡 Quote of the Day  
+### 💡 Quote  
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad."</em>
 </p>
