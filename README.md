@@ -55,6 +55,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheesh09&bg_color=0D1117&color=0078ff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Maheesha's GitHub Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesh09&theme=dark" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ### 💡 Quote  
