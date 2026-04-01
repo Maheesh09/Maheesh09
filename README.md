@@ -85,6 +85,7 @@ Team        : algoknights.vercel.app
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding: Innovation Hack or Developer Trap?](https://medium.com/@pramudithamaheesha/vibe-coding-innovation-hack-or-developer-trap-9754bdadccea?source=rss-c9707ed4af6f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
