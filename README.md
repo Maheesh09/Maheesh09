@@ -4,14 +4,13 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━ ANIMATED HEADER ━━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maheesha%20Pramuditha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Builder%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maheesha%20Pramuditha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Undergraduate%20%7C%20Builder%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&random=false&width=760&lines=🎓+SE+Undergrad+%40+SLIIT+%7C+IT24+Batch;🧠+Building+MindUp+—+Student+Wellbeing+App;💬+Engineering+HiveChat+—+Distributed+Messaging;⚙️+Crafting+an+AI-Powered+API+Gateway+in+Go;✍️+Tech+Blogger+on+Medium;🏆+Team+AlgoKnights+Member;💡+Turning+Complex+Ideas+Into+Real+Products" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=2000&pause=700&center=true&width=535&lines=Hi+I'm+Maheesha;Computer+Science+Undergraduate+@SLIIT" alt="Typing SVG" /></a>
 </p>
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ BADGES ROW ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maheesh09&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
@@ -28,26 +27,20 @@
 <tr>
 <td valign="top" width="55%">
 
-### 👨‍💻 `whoami`
+### `whoami`
 
 ```yaml
 Name        : Maheesha Pramuditha
 Role        : Software Engineering Undergraduate
-University  : SLIIT  — IT24 Batch (Reg: IT24103477)
+University  : Sri Lanka Institute of Information Technology
 Location    : Sri Lanka  🇱🇰
 Interests   :
   - AI & Machine Learning
-  - Distributed Systems
+  - Backend Development
   - Full-Stack & Mobile Dev
   - UX Design & Prototyping
-Currently   :
-  - 🧠 Building MindUp (Flutter + Firebase)
-  - 💬 Engineering HiveChat (Python + gRPC)
-  - ⚙️ AI API Gateway (Go + Claude AI)
-  - ✍️ Writing tech articles on Medium
 Portfolio   : maheesh.vercel.app
 Team        : algoknights.vercel.app
-Fun Fact    : I debug with coffee ☕ and lo-fi 🎵
 ```
 
 </td>
@@ -65,82 +58,16 @@ Fun Fact    : I debug with coffee ☕ and lo-fi 🎵
 </tr>
 </table>
 
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━ CURRENTLY BUILDING ━━━━━━━━━━━━━━━━━━━━━━ -->
-### 🔥 What I'm Building Right Now
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🧠 MindUp</h3>
-      <p>A student wellbeing mobile app with mood tracking, guided breathing, task management & mental health support resources. Designed after real user research with SLIIT students.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💬 HiveChat</h3>
-      <p>Distributed messaging system built in Python with gRPC. I own the <strong>Data Replication module</strong> — ensuring fault-tolerant, consistent message delivery across nodes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚙️ AI API Gateway</h3>
-      <p>An intelligent API gateway in Go with JWT auth, Redis Lua rate-limiting, PostgreSQL, async background jobs & Claude AI-powered anomaly detection and explanation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>✍️ Medium Blog</h3>
-      <p>Writing in-depth tech articles about software engineering, AI, and building real-world products. Documenting my learning journey, one post at a time.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Topics-AI%20·%20SE%20·%20DevOps-0e75b6?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Maheesh09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078ff&text_color=c9d1d9&ring_color=0078ff" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheesh09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9" alt="Top Languages"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesh09&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=0078ff&ring=00BFFF&fire=ff6b35&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=c9d1d9" alt="GitHub Streak"/>
 </div>
 
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ TROPHIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maheesh09&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies"/>
-</p>
-
-<br/>
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━ PROFILE SUMMARY ━━━━━━━━━━━━━━━━━━━━━━━━ -->
-### 📋 Profile Summary
+### Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maheesh09&theme=tokyonight" alt="Profile Summary Card" width="100%"/>
@@ -157,7 +84,7 @@ Fun Fact    : I debug with coffee ☕ and lo-fi 🎵
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-### ⚡ Tech Stack & Tools
+### Tech Stack & Tools
 
 <details open>
 <summary><b>🧑‍💻 Languages</b></summary>
@@ -225,19 +152,6 @@ Fun Fact    : I debug with coffee ☕ and lo-fi 🎵
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake.svg" width="100%"/>
 </picture>
 
-> ⚠️ _To activate the snake, set up the GitHub Action below — see `snake-workflow.yml`_
-
-<br/>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ RANDOM DEV QUOTE ━━━━━━━━━━━━━━━━━━━━━━━ -->
-### 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="90%"/>
-</p>
-
-<br/>
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ### 🤝 Let's Connect & Build Something
 
@@ -268,7 +182,7 @@ Fun Fact    : I debug with coffee ☕ and lo-fi 🎵
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/__maheesh__" target="_blank">
+  <a href="https://instagram.com/_maheesh_04" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
