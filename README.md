@@ -31,7 +31,7 @@
 
 ```yaml
 Name        : Maheesha Pramuditha
-Role        : Software Engineering Undergraduate
+Role        : Computer Science Undergraduate
 University  : Sri Lanka Institute of Information Technology
 Location    : Sri Lanka  🇱🇰
 Interests   :
