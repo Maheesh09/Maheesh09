@@ -1,91 +1,306 @@
-<!-- Profile Header -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║          MAHEESHA PRAMUDITHA — GITHUB PROFILE README         ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ ANIMATED HEADER ━━━━━━━━━━━━━━━━━━━━━━━ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maheesha%20Pramuditha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Builder%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Hi%20,%20I'm%20Maheesha%20&fontAlign=50&fontAlignY=35&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&random=false&width=760&lines=🎓+SE+Undergrad+%40+SLIIT+%7C+IT24+Batch;🧠+Building+MindUp+—+Student+Wellbeing+App;💬+Engineering+HiveChat+—+Distributed+Messaging;⚙️+Crafting+an+AI-Powered+API+Gateway+in+Go;✍️+Tech+Blogger+on+Medium;🏆+Team+AlgoKnights+Member;💡+Turning+Complex+Ideas+Into+Real+Products" alt="Typing SVG"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ BADGES ROW ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate+@SLIIT;AI+and+Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Maheesh09&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Maheesh09?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0D1117&logo=github&logoColor=white" alt="followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-brightgreen?style=for-the-badge&logoColor=white" alt="open to work"/>
 </p>
 
----
+<br/>
 
-### 🌟 About Me  
-- 👨‍💻 Check out my work: [maheesh.vercel.app](https://maheesh.vercel.app)  
-- 📫 Reach me at: **pramudithamaheesha@gmail.com**
-- 🏆 Team: [algoknights](https://algoknights.vercel.app)
----
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ME ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<table align="center" width="100%">
+<tr>
+<td valign="top" width="55%">
 
+### 👨‍💻 `whoami`
 
-### 🤝 Connect With Me  
+```yaml
+Name        : Maheesha Pramuditha
+Role        : Software Engineering Undergraduate
+University  : SLIIT  — IT24 Batch (Reg: IT24103477)
+Location    : Sri Lanka  🇱🇰
+Interests   :
+  - AI & Machine Learning
+  - Distributed Systems
+  - Full-Stack & Mobile Dev
+  - UX Design & Prototyping
+Currently   :
+  - 🧠 Building MindUp (Flutter + Firebase)
+  - 💬 Engineering HiveChat (Python + gRPC)
+  - ⚙️ AI API Gateway (Go + Claude AI)
+  - ✍️ Writing tech articles on Medium
+Portfolio   : maheesh.vercel.app
+Team        : algoknights.vercel.app
+Fun Fact    : I debug with coffee ☕ and lo-fi 🎵
+```
+
+</td>
+<td valign="middle" width="45%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Vibes GIF" style="border-radius: 12px;"/>
+  <br/><br/>
+  <a href="https://maheesh.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-maheesh.vercel.app-0e75b6?style=flat-square"/>
+  </a>
+  <br/>
+  <a href="https://algoknights.vercel.app">
+    <img src="https://img.shields.io/badge/🏆%20Team-AlgoKnights-6E40C9?style=flat-square"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ CURRENTLY BUILDING ━━━━━━━━━━━━━━━━━━━━━━ -->
+### 🔥 What I'm Building Right Now
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 MindUp</h3>
+      <p>A student wellbeing mobile app with mood tracking, guided breathing, task management & mental health support resources. Designed after real user research with SLIIT students.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💬 HiveChat</h3>
+      <p>Distributed messaging system built in Python with gRPC. I own the <strong>Data Replication module</strong> — ensuring fault-tolerant, consistent message delivery across nodes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Distributed_Systems-0D1117?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ AI API Gateway</h3>
+      <p>An intelligent API gateway in Go with JWT auth, Redis Lua rate-limiting, PostgreSQL, async background jobs & Claude AI-powered anomaly detection and explanation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>✍️ Medium Blog</h3>
+      <p>Writing in-depth tech articles about software engineering, AI, and building real-world products. Documenting my learning journey, one post at a time.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Topics-AI%20·%20SE%20·%20DevOps-0e75b6?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Maheesh09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=0078ff&text_color=c9d1d9&ring_color=0078ff" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maheesh09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=c9d1d9" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesh09&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=0078ff&ring=00BFFF&fire=ff6b35&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=c9d1d9" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ TROPHIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maheesh09&theme=algolia&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROFILE SUMMARY ━━━━━━━━━━━━━━━━━━━━━━━━ -->
+### 📋 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maheesh09&theme=tokyonight" alt="Profile Summary Card" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maheesh09&theme=tokyonight" alt="Repos Per Language" height="150em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maheesh09&theme=tokyonight" alt="Most Commit Language" height="150em"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maheesh09&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="150em"/>
+</p>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+### ⚡ Tech Stack & Tools
+
+<details open>
+<summary><b>🧑‍💻 Languages</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,go,typescript,javascript,c&perline=6" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&perline=7" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Backend & DevOps</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,docker,kubernetes,aws,gcp,linux&perline=8" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Tools</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,git,github,postman,vscode&perline=7" />
+</p>
+</details>
+
+<details>
+<summary><b>🤖 AI / ML</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="50"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50"/>
+</p>
+</details>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ ACTIVITY GRAPH ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maheesh09&bg_color=0D1117&color=00BFFF&line=0078ff&point=ffffff&area=true&area_color=0078ff&hide_border=true&radius=8&custom_title=Maheesha's%20Contribution%20Graph" alt="Contribution Graph" width="98%"/>
+</p>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ SNAKE GAME ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+### 🐍 My Contributions Get Eaten by a Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake.svg"/>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake.svg" width="100%"/>
+</picture>
+
+> ⚠️ _To activate the snake, set up the GitHub Action below — see `snake-workflow.yml`_
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ RANDOM DEV QUOTE ━━━━━━━━━━━━━━━━━━━━━━━ -->
+### 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="90%"/>
+</p>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+### 🤝 Let's Connect & Build Something
+
 <p align="center">
   <a href="https://linkedin.com/in/maheeshapramuditha" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com/maheeshapramuditha" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40"/>
+  &nbsp;
+  <a href="mailto:pramudithamaheesha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/__maheesh__" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40"/>
+  &nbsp;
+  <a href="https://maheesh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
+  <a href="https://medium.com/@pramudithamaheesha" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.hackerrank.com/pramudithamahee1" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="40"/>
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.leetcode.com/maheeshz" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/__maheesh__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://algoknights.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🏆_AlgoKnights-6E40C9?style=for-the-badge&logoColor=white" alt="AlgoKnights"/>
   </a>
 </p>
 
----
+<br/>
 
-
-### ⚙️ Languages & Tools  
+<!-- ━━━━━━━━━━━━━━━━━━━━━ SCROLLING TECH BAND ━━━━━━━━━━━━━━━━━━━━━ -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,typescript,react,nextjs,nodejs,spring,postgresql,mysql,aws,gcp,git,docker,figma,postman,tensorflow,c,photoshop,arduino" />
-</p>
-
----
-
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheesh09&bg_color=0D1117&color=0078ff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Maheesha's GitHub Contribution Graph" />
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maheesh09&theme=dark" alt="GitHub Streak"/>
-</p>
-
----
-
-### 💡 Quote  
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad."</em>
-</p>
-
----
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" width="92%">
-    <img src="https://skillicons.dev/icons?i=java" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=python" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nextjs" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nodejs" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=spring" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=ts" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=postgres" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=docker" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=aws" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=gcp" height="30" />&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="30" />
-  </marquee>
+  <sub>⚡ Technologies I work with daily ⚡</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+  <img src="https://skillicons.dev/icons?i=java,python,go,react,nextjs,flutter,nodejs,spring,postgresql,mysql,redis,docker,aws,gcp,figma,tensorflow&perline=16" />
+</p>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>🛠️ Built with ❤️ by Maheesha Pramuditha · Sri Lanka 🇱🇰</sub>
 </p>
