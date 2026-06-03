@@ -85,6 +85,7 @@ Team        : algoknights.vercel.app
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned Building an AI-Powered API Gateway in Go](https://medium.com/@pramudithamaheesha/what-i-learned-building-an-ai-powered-api-gateway-in-go-9a7e6fc0ece7?source=rss-c9707ed4af6f------2)
 - [Vibe Coding: Innovation Hack or Developer Trap?](https://medium.com/@pramudithamaheesha/vibe-coding-innovation-hack-or-developer-trap-9754bdadccea?source=rss-c9707ed4af6f------2)
 <!-- BLOG-POST-LIST:END -->
 
