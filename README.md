@@ -89,53 +89,6 @@ Team        : algoknights.vercel.app
 - [Vibe Coding: Innovation Hack or Developer Trap?](https://medium.com/@pramudithamaheesha/vibe-coding-innovation-hack-or-developer-trap-9754bdadccea?source=rss-c9707ed4af6f------2)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-### Tech Stack & Tools
-
-<details open>
-<summary><b>🧑‍💻 Languages</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,go,typescript,javascript,c&perline=6" />
-</p>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend & Mobile</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&perline=7" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Backend & DevOps</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,docker,kubernetes,aws,gcp,linux&perline=8" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Tools</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,git,github,postman,vscode&perline=7" />
-</p>
-</details>
-
-<details>
-<summary><b>🤖 AI / ML</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="50"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="50"/>
-</p>
-</details>
-
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━ ACTIVITY GRAPH ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
