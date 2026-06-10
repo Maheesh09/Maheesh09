@@ -37,7 +37,6 @@ Location    : Sri Lanka  🇱🇰
 Interests   :
   - AI & Machine Learning
   - Backend Development
-  - Full-Stack & Mobile Dev
   - UX Design & Prototyping
 Portfolio   : maheesh.vercel.app
 Team        : algoknights.vercel.app
