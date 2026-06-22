@@ -1,0 +1,32 @@
+name: Refresh stats cache
+
+# This doesn't touch the stats data itself — that's computed fresh on every
+# request by the Vercel function. This job exists purely to force GitHub's
+# image proxy (camo.githubusercontent.com) to re-fetch the image instead of
+# serving its own cached copy, by giving it a new URL each run.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours; tighten if you want fresher updates
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+
+jobs:
+  bust-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Bump the cache-busting query param
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i "s|\(maheesh\.vercel\.app/api/github-stats?v=\)[0-9]\+|\1${TIMESTAMP}|" README.md
+
+      - name: Commit and push if README changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: refresh GitHub stats cache"
+            git push
+          fi
