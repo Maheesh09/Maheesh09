@@ -1,17 +1,12 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║          MAHEESHA PRAMUDITHA — GITHUB PROFILE README         ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ ANIMATED HEADER ━━━━━━━━━━━━━━━━━━━━━━━ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Maheesha%20Pramuditha&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Undergraduate%20%7C%20Builder%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ TYPING ANIMATION ━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&duration=2000&pause=700&center=true&width=535&lines=Hi+I'm+Maheesha;Computer+Science+Undergraduate+@SLIIT" alt="Typing SVG" /></a>
 </p>
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ BADGES ROW ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maheesh09&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   &nbsp;
@@ -22,7 +17,7 @@
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━ ABOUT ME ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <table align="center" width="100%">
 <tr>
 <td valign="top" width="55%">
@@ -57,7 +52,7 @@ Team        : algoknights.vercel.app
 </tr>
 </table>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ### GitHub Stats
 
 <div align="center">
@@ -65,7 +60,7 @@ Team        : algoknights.vercel.app
   <img src="https://shbfkjnbsoidvijsdhsvsdvkmsjspsjjvsok2312.vercel.app/api/github-stats?v=1782377257" alt="GitHub Stats"/>
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ PROFILE SUMMARY ━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ### Profile Summary
 
 <p align="center">
@@ -83,14 +78,14 @@ Team        : algoknights.vercel.app
 <br/>
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
+
 - [What I Learned Building an AI-Powered API Gateway in Go](https://medium.com/@pramudithamaheesha/what-i-learned-building-an-ai-powered-api-gateway-in-go-9a7e6fc0ece7?source=rss-c9707ed4af6f------2)
 - [Vibe Coding: Innovation Hack or Developer Trap?](https://medium.com/@pramudithamaheesha/vibe-coding-innovation-hack-or-developer-trap-9754bdadccea?source=rss-c9707ed4af6f------2)
-<!-- BLOG-POST-LIST:END -->
+
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━ ACTIVITY GRAPH ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ### 📈 Contribution Activity
 
 <p align="center">
@@ -99,7 +94,7 @@ Team        : algoknights.vercel.app
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ SNAKE GAME ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ### 🐍 My Contributions Get Eaten by a Snake
 
 <picture>
@@ -110,7 +105,7 @@ Team        : algoknights.vercel.app
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake.svg" width="100%"/>
 </picture>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ### 🤝 Let's Connect & Build Something
 
 <p align="center">
@@ -151,7 +146,7 @@ Team        : algoknights.vercel.app
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━ SCROLLING TECH BAND ━━━━━━━━━━━━━━━━━━━━━ -->
+
 <p align="center">
   <picture>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" width="100%"/>
@@ -168,7 +163,7 @@ Team        : algoknights.vercel.app
 
 <br/>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </p>
