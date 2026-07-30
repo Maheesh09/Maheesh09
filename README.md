@@ -169,5 +169,5 @@ Team        : algoknights.vercel.app
 </p>
 
 <p align="center">
-  <sub>🛠️ Built with ❤️ by Maheesha Pramuditha · Sri Lanka 🇱🇰</sub>
+  <sub> Built with ❤️ by Maheesha Pramuditha · Sri Lanka 🇱🇰</sub>
 </p>
