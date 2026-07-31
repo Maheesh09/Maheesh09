@@ -53,12 +53,7 @@ Team        : algoknights.vercel.app
 </table>
 
 
-### GitHub Stats
 
-<div align="center">
-<div align="center">
-  <img src="https://shbfkjnbsoidvijsdhsvsdvkmsjspsjjvsok2312.vercel.app/api/github-stats?v=1782377257" alt="GitHub Stats"/>
-</div>
 
 
 ### Profile Summary
