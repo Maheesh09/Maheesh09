@@ -93,17 +93,6 @@ Team        : algoknights.vercel.app
 <br/>
 
 
-### 🐍 My Contributions Get Eaten by a Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake.svg"/>
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Maheesh09/Maheesh09/output/github-snake.svg" width="100%"/>
-</picture>
-
-
 ### 🤝 Let's Connect & Build Something
 
 <p align="center">
