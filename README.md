@@ -59,21 +59,6 @@ Team        : algoknights.vercel.app
   <img src="https://shbfkjnbsoidvijsdhsvsdvkmsjspsjjvsok2312.vercel.app/api/github-stats?v=1782377257" alt="GitHub Stats"/>
 </div>
 
-### Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maheesh09&theme=tokyonight" alt="Profile Summary Card" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maheesh09&theme=tokyonight" alt="Repos Per Language" height="150em"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maheesh09&theme=tokyonight" alt="Most Commit Language" height="150em"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maheesh09&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="150em"/>
-</p>
-
-<br/>
 
 ### Blog posts
 
