@@ -30,9 +30,8 @@ Role        : Computer Science Undergraduate
 University  : Sri Lanka Institute of Information Technology
 Location    : Sri Lanka  🇱🇰
 Interests   :
-  - AI & Machine Learning
+  - DevOps
   - Backend Development
-  - UX Design & Prototyping
 Portfolio   : maheesh.vercel.app
 Team        : algoknights.vercel.app
 ```
